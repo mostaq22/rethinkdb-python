@@ -1,0 +1,8 @@
+2019-08-15T21:12:20.464118961 0.157188s notice: Recursively removing directory /media/mostaq/workstation/git-portfolio/rethinkdb-python/rethinkdb_data/tmp
+2019-08-15T21:12:20.503723445 0.196803s notice: Initializing directory /media/mostaq/workstation/git-portfolio/rethinkdb-python/rethinkdb_data
+2019-08-15T21:12:20.504077654 0.197146s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/media/mostaq/workstation/git-portfolio/rethinkdb-python/rethinkdb_data' did not already exist or is empty.)
+2019-08-15T21:12:20.504266697 0.197334s notice: Running rethinkdb 2.3.6.srh.1~0bionic (CLANG 6.0.0 (tags/RELEASE_600/final))...
+2019-08-15T21:12:20.518067845 0.211146s notice: Running on Linux 4.15.0-55-generic x86_64
+2019-08-15T21:12:20.518290713 0.211358s notice: Loading data from directory /media/mostaq/workstation/git-portfolio/rethinkdb-python/rethinkdb_data
+2019-08-15T21:12:20.896404024 0.589474s info: Automatically using cache size of 1458 MB
+2019-08-15T21:12:20.897384570 0.590451s error: TCP socket creation failed for port 29015: Address already in use.
